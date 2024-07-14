@@ -18,6 +18,10 @@ from src.odds_parsing import constants
 
 
 if __name__ == "__main__":
+    # Create output folder
+    if not os.path.exists("data"):
+        os.mkdir("data")
+
     rows = list()
     # Parse all categories
     for category in tqdm(constants.CATEGORIES):
