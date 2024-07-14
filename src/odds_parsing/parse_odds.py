@@ -1,5 +1,4 @@
 import os
-import re
 import sys
 from pathlib import Path
 
@@ -9,6 +8,9 @@ cwd = current_file_path.parent.parent.parent
 os.chdir(cwd)
 sys.path.append(str(cwd))
 
+import re
+from datetime import datetime
+
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -16,11 +18,13 @@ from tqdm import tqdm
 
 from src.odds_parsing import constants
 
-
 if __name__ == "__main__":
     # Create output folder
     if not os.path.exists("data"):
         os.mkdir("data")
+
+    # Get today's date for snapshot
+    snapshot_date = datetime.now().strftime("%Y_%m_%d")
 
     rows = list()
     # Parse all categories
@@ -95,6 +99,7 @@ if __name__ == "__main__":
                     draw_odds,
                     event,
                     bet_type,
+                    snapshot_date,
                 )
             )
 
@@ -111,6 +116,7 @@ if __name__ == "__main__":
             "draw_odds",
             "event",
             "bet_type",
+            "snapshot_date",
         ],
     )
 
