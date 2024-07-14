@@ -9,7 +9,7 @@ os.chdir(cwd)
 sys.path.append(str(cwd))
 
 import re
-from datetime import datetime
+from datetime import datetime, timezone
 
 import pandas as pd
 import requests
@@ -19,12 +19,12 @@ from tqdm import tqdm
 from src.odds_parsing import constants
 
 if __name__ == "__main__":
-    # Create output folder
-    if not os.path.exists("data"):
-        os.mkdir("data")
-
     # Get today's date for snapshot
-    snapshot_date = datetime.now().strftime("%Y_%m_%d")
+    snapshot_date = datetime.now(timezone.utc).strftime("%Y_%m_%d")
+
+    # Create output folder
+    if not os.path.exists(f"data/{snapshot_date}"):
+        os.mkdir(f"data/{snapshot_date}")
 
     rows = list()
     # Parse all categories
@@ -120,4 +120,4 @@ if __name__ == "__main__":
         ],
     )
 
-    df.to_csv("data/data.csv", mode="a", index=False)
+    df.to_csv(f"data/{snapshot_date}/data.csv", index=False)

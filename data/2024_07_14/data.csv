@@ -1,5 +1,4 @@
 sport,match_id,date,team_1,team_1_odds,team_2,team_2_odds,draw_odds,event,bet_type,snapshot_date
-Leage of Legends,intz_kabum_jul_14,jul_14,intz,2.35,kabum,1.55,,cblol,match_winner,2024_07_14
 Leage of Legends,furia_red_canids_jul_14,jul_14,furia,2.10,red_canids,1.69,,cblol,match_winner,2024_07_14
 Leage of Legends,los_loud_jul_14,jul_14,los,4.68,loud,1.17,,cblol,match_winner,2024_07_14
 Leage of Legends,flyquest_nzxt_disguised_jul_14,jul_14,flyquest_nzxt,1.36,disguised,2.78,,nacl,match_winner,2024_07_14
@@ -45,18 +44,17 @@ Valorant,xerxia_full_sense_jul_18,jul_18,xerxia,7.44,full_sense,1.05,,challenger
 Valorant,cgn_mouz_jul_20,jul_20,cgn,1.47,mouz,2.39,,challengers_dach,match_winner,2024_07_14
 Valorant,saw_ppp_jul_21,jul_21,saw,1.52,ppp,2.26,,challengers_portugal,match_winner,2024_07_14
 Valorant,pcific_galakticos_jul_21,jul_21,pcific,1.82,galakticos,1.82,,challengers_turkey,match_winner,2024_07_14
-CS:GO,france_female_censored_female_jul_14,jul_14,france_female,1.23,censored_female,3.65,,femmefury_queens_of_the_server,match_winner,2024_07_14
 CS:GO,purple_haze_gameinside_jul_15,jul_15,purple_haze,1.70,gameinside,2.01,,esports_battle,match_winner,2024_07_14
 CS:GO,gameinside_purple_haze_jul_15,jul_15,gameinside,2.01,purple_haze,1.70,,esports_battle,match_winner,2024_07_14
 CS:GO,passion_ua_wopa_jul_15,jul_15,passion_ua,1.22,wopa,3.76,,cct_european_series,match_winner,2024_07_14
 CS:GO,nightraid_rembaza_jul_15,jul_15,nightraid,1.64,rembaza,2.10,,esports_battle,match_winner,2024_07_14
 CS:GO,illuminar_alternate_attax_jul_15,jul_15,illuminar,2.08,alternate_attax,1.65,,european_pro_league,match_winner,2024_07_14
-CS:GO,gun5_cph_wolves_jul_15,jul_15,gun5,1.20,cph_wolves,4.00,,cct_european_series,match_winner,2024_07_14
 CS:GO,sinners_nexus_jul_15,jul_15,sinners,1.48,nexus,2.43,,shuffle_masters,match_winner,2024_07_14
+CS:GO,gun5_cph_wolves_jul_15,jul_15,gun5,1.20,cph_wolves,4.00,,cct_european_series,match_winner,2024_07_14
 CS:GO,bleed_aurora_young_blud_jul_15,jul_15,bleed,1.14,aurora_young_blud,5.39,,res_regional_series_europe,match_winner,2024_07_14
 CS:GO,rembaza_nightraid_jul_15,jul_15,rembaza,2.10,nightraid,1.64,,esports_battle,match_winner,2024_07_14
-CS:GO,insanity_yawara_jul_15,jul_15,insanity,1.07,yawara,7.31,,cct_south_america_series,match_winner,2024_07_14
 CS:GO,verdant_revenant_jul_15,jul_15,verdant,3.09,revenant,1.31,,shuffle_masters,match_winner,2024_07_14
+CS:GO,insanity_yawara_jul_15,jul_15,insanity,1.07,yawara,7.31,,cct_south_america_series,match_winner,2024_07_14
 CS:GO,bounty_hunters_furia_academy_jul_15,jul_15,bounty_hunters,1.08,furia_academy,6.65,,cct_south_america_series,match_winner,2024_07_14
 CS:GO,vp_prodigy_aurora_young_blud_jul_15,jul_15,vp_prodigy,1.80,aurora_young_blud,1.88,,cct_european_series,match_winner,2024_07_14
 CS:GO,nemiga_passion_ua_jul_15,jul_15,nemiga,1.65,passion_ua,2.18,,res_regional_series_europe,match_winner,2024_07_14
@@ -67,6 +65,7 @@ CS:GO,metizport_1_5_endpoint_1_5_jul_16,jul_16,metizport_1_5,2.41,endpoint_1_5,1
 CS:GO,sampi_ruby_jul_16,jul_16,sampi,1.80,ruby,1.88,,cct_european_series,match_winner,2024_07_14
 CS:GO,kru_dusty_roots_jul_16,jul_16,kru,1.33,dusty_roots,3.00,,cct_south_america_series,match_winner,2024_07_14
 CS:GO,fnatic_cybershoke_jul_16,jul_16,fnatic,1.09,cybershoke,7.15,,res_regional_series_europe,match_winner,2024_07_14
+CS:GO,dms_alternate_attax_jul_16,jul_16,dms,1.94,alternate_attax,1.75,,cct_european_series,match_winner,2024_07_14
 Call of Duty,new_york_subliners_seattle_surge_jul_18,jul_18,new_york_subliners,1.27,seattle_surge,3.07,,cdl,match_winner,2024_07_14
 Call of Duty,sgp_midnight_singapore_syndicate_jul_18,jul_18,sgp_midnight,1.79,singapore_syndicate,1.85,,challengers_finals,match_winner,2024_07_14
 Call of Duty,five_media_clan_exceptional_jul_18,jul_18,five_media_clan,1.99,exceptional,1.68,,challengers_finals,match_winner,2024_07_14
