@@ -1,0 +1,77 @@
+sport,match_id,date,team_1,team_1_odds,team_2,team_2_odds,draw_odds,event,bet_type
+Leage of Legends,intz_kabum_jul_14,jul_14,intz,2.35,kabum,1.55,,cblol,match_winner
+Leage of Legends,furia_red_canids_jul_14,jul_14,furia,2.10,red_canids,1.69,,cblol,match_winner
+Leage of Legends,los_loud_jul_14,jul_14,los,4.68,loud,1.17,,cblol,match_winner
+Leage of Legends,flyquest_nzxt_disguised_jul_14,jul_14,flyquest_nzxt,1.36,disguised,2.78,,nacl,match_winner
+Leage of Legends,ccg_area_of_effect_jul_14,jul_14,ccg,1.52,area_of_effect,2.30,,nacl,match_winner
+Leage of Legends,winthrop_university_blue_otter_jul_15,jul_15,winthrop_university,1.73,blue_otter,1.94,,nacl,match_winner
+Leage of Legends,nongshim_redforce_academy_dplus_kia_challengers_jul_15,jul_15,nongshim_redforce_academy,4.68,dplus_kia_challengers,1.14,,lck_cl,match_winner
+Leage of Legends,ground_zero_ion_global_jul_15,jul_15,ground_zero,1.04,ion_global,8.36,,lco,match_winner
+Leage of Legends,t1_academy_brion_challengers_jul_15,jul_15,t1_academy,1.47,brion_challengers,2.41,,lck_cl,match_winner
+Leage of Legends,oh_my_god_invictus_jul_15,jul_15,oh_my_god,1.41,invictus,2.82,,lpl,match_winner
+Leage of Legends,bliss_antic_jul_15,jul_15,bliss,1.18,antic,4.09,,lco,match_winner
+Leage of Legends,fearx_youth_gen_g_global_academy_jul_15,jul_15,fearx_youth,1.18,gen_g_global_academy,4.14,,lck_cl,match_winner
+Leage of Legends,lgd_bilibili_jul_15,jul_15,lgd,8.16,bilibili,1.07,,lpl,match_winner
+Leage of Legends,entropiq_glore_jul_15,jul_15,entropiq,1.16,glore,4.39,,hitpoint_masters,match_winner
+Leage of Legends,brute_dynamo_eclot_jul_15,jul_15,brute,1.76,dynamo_eclot,1.90,,hitpoint_masters,match_winner
+Leage of Legends,unity_parakeet_jul_15,jul_15,unity,1.37,parakeet,2.75,,hitpoint_masters,match_winner
+Leage of Legends,rise_pain_academy_jul_15,jul_15,rise,3.34,pain_academy,1.26,,cblol_academy,match_winner
+Leage of Legends,flamengo_academy_loud_academy_jul_15,jul_15,flamengo_academy,1.97,loud_academy,1.72,,cblol_academy,match_winner
+Leage of Legends,los_academy_ilha_das_lendas_jul_15,jul_15,los_academy,4.75,ilha_das_lendas,1.13,,cblol_academy,match_winner
+Leage of Legends,kabum_academy_vivo_keyd_stars_academy_jul_15,jul_15,kabum_academy,2.91,vivo_keyd_stars_academy,1.33,,cblol_academy,match_winner
+Leage of Legends,tropa_raizen_furia_academy_jul_15,jul_15,tropa_raizen,3.62,furia_academy,1.22,,cblol_academy,match_winner
+Leage of Legends,intz_academy_red_academy_jul_16,jul_16,intz_academy,4.14,red_academy,1.18,,cblol_academy,match_winner
+Leage of Legends,liberty_academy_fluxo_academy_jul_16,jul_16,liberty_academy,2.00,fluxo_academy,1.69,,cblol_academy,match_winner
+Leage of Legends,drx_challengers_kt_rolster_challengers_jul_16,jul_16,drx_challengers,3.67,kt_rolster_challengers,1.22,,lck_cl,match_winner
+Valorant,gonext_trashcan_jul_14,jul_14,gonext,1.16,trashcan,4.45,,challengers_east,match_winner
+Valorant,loud_100_thieves_jul_14,jul_14,loud,2.73,100_thieves,1.39,,champions_tour_americas,match_winner
+Valorant,sentinels_g2_jul_15,jul_15,sentinels,1.44,g2,2.56,,champions_tour_americas,match_winner
+Valorant,vitality_natus_vincere_jul_15,jul_15,vitality,1.57,natus_vincere,2.21,,champions_tour_emea,match_winner
+Valorant,fnatic_karmine_corp_jul_15,jul_15,fnatic,1.40,karmine_corp,2.68,,champions_tour_emea,match_winner
+Valorant,galorys_red_canids_jul_15,jul_15,galorys,3.73,red_canids,1.20,,challengers_brazil,match_winner
+Valorant,tbk_stellae_jul_15,jul_15,tbk,1.54,stellae,2.28,,challengers_brazil,match_winner
+Valorant,trace_all_gamers_jul_16,jul_16,trace,1.08,all_gamers,6.49,,champions_tour_china,match_winner
+Valorant,elevate_disguised_jul_16,jul_16,elevate,1.89,disguised,1.79,,challengers_malaysia_and_singapore,match_winner
+Valorant,jd_gaming_bilibili_jul_16,jul_16,jd_gaming,2.10,bilibili,1.64,,champions_tour_china,match_winner
+Valorant,laze_reve_drift_arena_jul_16,jul_16,laze,1.28,reve_drift_arena,3.26,,challengers_malaysia_and_singapore,match_winner
+Valorant,carti_oasis_jul_17,jul_17,carti,6.12,oasis,1.08,,challengers_philippines,match_winner
+Valorant,slt_iam_jul_17,jul_17,slt,1.53,iam,2.30,,challengers_korea,match_winner
+Valorant,riddle_sengoku_jul_17,jul_17,riddle,1.09,sengoku,6.03,,challengers_japan,match_winner
+Valorant,nongshim_redforce_vec_jul_17,jul_17,nongshim_redforce,1.38,vec,2.77,,challengers_korea,match_winner
+Valorant,avernus_justus_jul_17,jul_17,avernus,1.70,justus,2.01,,challengers_philippines,match_winner
+Valorant,fancy_united_cyberking_jul_17,jul_17,fancy_united,1.08,cyberking,6.12,,challengers_vietnam,match_winner
+Valorant,flash_rapid_lofi_jul_17,jul_17,flash,1.27,rapid_lofi,3.38,,challengers_vietnam,match_winner
+Valorant,sin_prisa_dplus_jul_18,jul_18,sin_prisa,1.70,dplus,2.00,,challengers_korea,match_winner
+Valorant,xerxia_full_sense_jul_18,jul_18,xerxia,7.44,full_sense,1.05,,challengers_thailand,match_winner
+Valorant,cgn_mouz_jul_20,jul_20,cgn,1.47,mouz,2.39,,challengers_dach,match_winner
+Valorant,saw_ppp_jul_21,jul_21,saw,1.52,ppp,2.26,,challengers_portugal,match_winner
+Valorant,pcific_galakticos_jul_21,jul_21,pcific,1.82,galakticos,1.82,,challengers_turkey,match_winner
+CS:GO,france_female_censored_female_jul_14,jul_14,france_female,1.23,censored_female,3.65,,femmefury_queens_of_the_server,match_winner
+CS:GO,purple_haze_gameinside_jul_15,jul_15,purple_haze,1.70,gameinside,2.01,,esports_battle,match_winner
+CS:GO,passion_ua_wopa_jul_15,jul_15,passion_ua,1.22,wopa,3.76,,cct_european_series,match_winner
+CS:GO,gameinside_purple_haze_jul_15,jul_15,gameinside,2.01,purple_haze,1.70,,esports_battle,match_winner
+CS:GO,nightraid_rembaza_jul_15,jul_15,nightraid,1.64,rembaza,2.10,,esports_battle,match_winner
+CS:GO,illuminar_alternate_attax_jul_15,jul_15,illuminar,2.08,alternate_attax,1.65,,european_pro_league,match_winner
+CS:GO,gun5_cph_wolves_jul_15,jul_15,gun5,1.20,cph_wolves,4.00,,cct_european_series,match_winner
+CS:GO,sinners_nexus_jul_15,jul_15,sinners,1.48,nexus,2.43,,shuffle_masters,match_winner
+CS:GO,bleed_aurora_young_blud_jul_15,jul_15,bleed,1.14,aurora_young_blud,5.39,,res_regional_series_europe,match_winner
+CS:GO,rembaza_nightraid_jul_15,jul_15,rembaza,2.10,nightraid,1.64,,esports_battle,match_winner
+CS:GO,insanity_yawara_jul_15,jul_15,insanity,1.07,yawara,7.31,,cct_south_america_series,match_winner
+CS:GO,verdant_revenant_jul_15,jul_15,verdant,3.09,revenant,1.31,,shuffle_masters,match_winner
+CS:GO,bounty_hunters_furia_academy_jul_15,jul_15,bounty_hunters,1.08,furia_academy,6.65,,cct_south_america_series,match_winner
+CS:GO,vp_prodigy_aurora_young_blud_jul_15,jul_15,vp_prodigy,1.80,aurora_young_blud,1.88,,cct_european_series,match_winner
+CS:GO,nemiga_passion_ua_jul_15,jul_15,nemiga,1.65,passion_ua,2.18,,res_regional_series_europe,match_winner
+CS:GO,solid_hawks_jul_15,jul_15,solid,1.20,hawks,4.00,,cct_south_america_series,match_winner
+CS:GO,case_9z_academy_jul_15,jul_15,case,1.12,9z_academy,5.32,,cct_south_america_series,match_winner
+CS:GO,zero_tenacity_eyeballers_jul_16,jul_16,zero_tenacity,1.57,eyeballers,2.34,,res_regional_series_europe,match_winner
+CS:GO,metizport_1_5_endpoint_1_5_jul_16,jul_16,metizport_1_5,2.41,endpoint_1_5,1.49,,cct_european_series,match_handicap
+CS:GO,sampi_ruby_jul_16,jul_16,sampi,1.80,ruby,1.88,,cct_european_series,match_winner
+CS:GO,kru_dusty_roots_jul_16,jul_16,kru,1.33,dusty_roots,3.00,,cct_south_america_series,match_winner
+CS:GO,fnatic_cybershoke_jul_16,jul_16,fnatic,1.09,cybershoke,7.15,,res_regional_series_europe,match_winner
+Call of Duty,new_york_subliners_seattle_surge_jul_18,jul_18,new_york_subliners,1.27,seattle_surge,3.07,,cdl,match_winner
+Call of Duty,sgp_midnight_singapore_syndicate_jul_18,jul_18,sgp_midnight,1.79,singapore_syndicate,1.85,,challengers_finals,match_winner
+Call of Duty,five_media_clan_exceptional_jul_18,jul_18,five_media_clan,1.99,exceptional,1.68,,challengers_finals,match_winner
+Call of Duty,clutch_rayn_x_war_noctem_x_cr_jul_18,jul_18,clutch_rayn_x_war,1.31,noctem_x_cr,2.95,,challengers_finals,match_winner
+Call of Duty,atlanta_faze_miami_heretics_jul_18,jul_18,atlanta_faze,1.14,miami_heretics,4.45,,cdl,match_winner
+Call of Duty,toronto_ultra_los_angeles_thieves_jul_18,jul_18,toronto_ultra,1.28,los_angeles_thieves,3.03,,cdl,match_winner
+Call of Duty,optic_texas_los_angeles_guerrillas_jul_18,jul_18,optic_texas,1.29,los_angeles_guerrillas,2.99,,cdl,match_winner
