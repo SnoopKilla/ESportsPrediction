@@ -1,0 +1,77 @@
+sport,match_id,date,team_1,team_1_odds,team_2,team_2_odds,draw_odds,event,bet_type,snapshot_date
+Dota 2,og_psg_quest_jul_18,jul_18,og,1.52,psg_quest,2.45,,riyadh_masters,match_winner,2024_07_18
+Dota 2,falcons_gaimin_gladiators_jul_18,jul_18,falcons,1.64,gaimin_gladiators,2.20,,riyadh_masters,match_winner,2024_07_18
+Dota 2,liquid_tundra_jul_18,jul_18,liquid,1.71,tundra,2.08,,riyadh_masters,match_winner,2024_07_18
+Dota 2,wbg_xg_bb_team_jul_19,jul_19,wbg_xg,1.56,bb_team,2.37,,riyadh_masters,match_winner,2024_07_18
+Leage of Legends,t1_academy_dplus_kia_challengers_jul_18,jul_18,t1_academy,3.34,dplus_kia_challengers,1.26,,lck_cl,match_winner,2024_07_18
+Leage of Legends,drx_challengers_kwangdong_freecs_challengers_jul_18,jul_18,drx_challengers,2.69,kwangdong_freecs_challengers,1.39,,lck_cl,match_winner,2024_07_18
+Leage of Legends,nongshim_redforce_acadademy_kt_rolster_challengers_jul_18,jul_18,nongshim_redforce_acadademy,6.62,kt_rolster_challengers,1.07,,lck_cl,match_winner,2024_07_18
+Leage of Legends,t1_bnk_fearx_jul_18,jul_18,t1,1.03,bnk_fearx,10.63,,lck,match_winner,2024_07_18
+Leage of Legends,ground_zero_bliss_jul_18,jul_18,ground_zero,1.32,bliss,2.91,,lco,match_winner,2024_07_18
+Leage of Legends,weibo_anyone_s_legend_jul_18,jul_18,weibo,2.63,anyone_s_legend,1.46,,lpl,match_winner,2024_07_18
+Leage of Legends,nongshim_redforce_gen_g_jul_18,jul_18,nongshim_redforce,26.14,gen_g,1.01,,lck,match_winner,2024_07_18
+Leage of Legends,bilibili_lng_jul_18,jul_18,bilibili,1.38,lng,2.99,,lpl,match_winner,2024_07_18
+Leage of Legends,sk_prime_schalke_04_jul_18,jul_18,sk_prime,1.14,schalke_04,4.71,,prime_league_1st_division,match_winner,2024_07_18
+Leage of Legends,fut_papara_supermassive_jul_18,jul_18,fut,3.61,papara_supermassive,1.23,,tcl,match_winner,2024_07_18
+Leage of Legends,zeta_los_heretics_jul_18,jul_18,zeta,4.44,los_heretics,1.15,,lvp_superliga,match_winner,2024_07_18
+Leage of Legends,zennit_snooze_jul_18,jul_18,zennit,1.41,snooze,2.61,,elite_series,match_winner,2024_07_18
+Leage of Legends,macko_atleta_jul_18,jul_18,macko,1.09,atleta,6.57,,lit,match_winner,2024_07_18
+Leage of Legends,lua_guasones_jul_18,jul_18,lua,2.04,guasones,1.67,,lvp_superliga,match_winner,2024_07_18
+Leage of Legends,besiktas_dark_passage_jul_18,jul_18,besiktas,1.66,dark_passage,2.04,,tcl,match_winner,2024_07_18
+Leage of Legends,bk_rog_gameward_jul_18,jul_18,bk_rog,1.59,gameward,2.16,,lfl,match_winner,2024_07_18
+Leage of Legends,nasr_turkey_misa_jul_18,jul_18,nasr_turkey,3.95,misa,1.19,,tcl,match_winner,2024_07_18
+Leage of Legends,boostgate_galakticos_jul_18,jul_18,boostgate,1.08,galakticos,6.28,,tcl,match_winner,2024_07_18
+Leage of Legends,movistar_koi_giantx_pride_jul_18,jul_18,movistar_koi,1.63,giantx_pride,2.10,,lvp_superliga,match_winner,2024_07_18
+Leage of Legends,solary_team_go_jul_18,jul_18,solary,1.98,team_go,1.71,,lfl,match_winner,2024_07_18
+Leage of Legends,hanwha_life_challengers_fearx_youth_jul_19,jul_19,hanwha_life_challengers,2.50,fearx_youth,1.45,,lck_cl,match_winner,2024_07_18
+Leage of Legends,gen_g_global_academy_brion_challengers_jul_19,jul_19,gen_g_global_academy,2.50,brion_challengers,1.45,,lck_cl,match_winner,2024_07_18
+Leage of Legends,invictus_edward_gaming_jul_19,jul_19,invictus,2.52,edward_gaming,1.50,,lpl,match_winner,2024_07_18
+Leage of Legends,kt_rolster_drx_jul_19,jul_19,kt_rolster,1.13,drx,5.42,,lck,match_winner,2024_07_18
+Valorant,sin_prisa_dplus_jul_18,jul_18,sin_prisa,1.52,dplus,2.33,,challengers_korea,match_winner,2024_07_18
+Valorant,xerxia_full_sense_jul_18,jul_18,xerxia,7.33,full_sense,1.05,,challengers_thailand,match_winner,2024_07_18
+Valorant,zerance_mandatory_jul_18,jul_18,zerance,2.33,mandatory,1.52,,challengers_france,match_winner,2024_07_18
+Valorant,drx_paper_rex_jul_20,jul_20,drx,3.85,paper_rex,1.21,,champions_tour_pacific,match_winner,2024_07_18
+Valorant,cgn_mouz_jul_20,jul_20,cgn,1.48,mouz,2.43,,challengers_dach,match_winner,2024_07_18
+Valorant,joblife_valiant_jul_21,jul_21,joblife,1.75,valiant,1.94,,challengers_france,match_winner,2024_07_18
+Valorant,saw_ppp_jul_21,jul_21,saw,1.53,ppp,2.30,,challengers_portugal,match_winner,2024_07_18
+Valorant,pcific_galakticos_jul_21,jul_21,pcific,1.84,galakticos,1.84,,challengers_turkey,match_winner,2024_07_18
+Valorant,supermassive_galatasaray_jul_21,jul_21,supermassive,1.40,galatasaray,2.69,,challengers_turkey,match_winner,2024_07_18
+Valorant,apeks_onlyfins_jul_23,jul_23,apeks,1.07,onlyfins,6.10,,challengers_northern_europe,match_winner,2024_07_18
+Valorant,sweetnsour_requiem_jul_23,jul_23,sweetnsour,2.06,requiem,1.63,,challengers_northern_europe,match_winner,2024_07_18
+Valorant,the_hero_deta_cynical_jul_24,jul_24,the_hero_deta,1.56,cynical,2.23,,challengers_indonesia,match_winner,2024_07_18
+Valorant,bigetron_arctic_alter_ego_jul_24,jul_24,bigetron_arctic,2.10,alter_ego,1.64,,challengers_indonesia,match_winner,2024_07_18
+Valorant,acend_gonext_jul_25,jul_25,acend,2.21,gonext,1.57,,challengers_east,match_winner,2024_07_18
+Valorant,diamant_trashcan_jul_25,jul_25,diamant,1.47,trashcan,2.33,,challengers_east,match_winner,2024_07_18
+Valorant,dsyre_novo_jul_26,jul_26,dsyre,1.06,novo,7.61,,challengers_italy,match_winner,2024_07_18
+Valorant,sengoku_fennel_jul_27,jul_27,sengoku,2.37,fennel,1.50,,challengers_japan,match_winner,2024_07_18
+CS:GO,boss_lag_jul_18,jul_18,boss,1.62,lag,2.13,,esl_challenger_league_north_america,match_winner,2024_07_18
+CS:GO,limitless_wildcard_jul_18,jul_18,limitless,5.78,wildcard,1.10,,esl_challenger_league_north_america,match_winner,2024_07_18
+CS:GO,nrg_mythic_jul_18,jul_18,nrg,1.11,mythic,5.71,,esl_challenger_league_north_america,match_winner,2024_07_18
+CS:GO,elevate_perseverance_jul_18,jul_18,elevate,1.25,perseverance,3.50,,esl_challenger_league_north_america,match_winner,2024_07_18
+CS:GO,party_astronauts_take_flyte_jul_18,jul_18,party_astronauts,1.12,take_flyte,5.38,,esl_challenger_league_north_america,match_winner,2024_07_18
+CS:GO,mythic_nrg_jul_18,jul_18,mythic,4.72,nrg,1.15,,esl_challenger_league_north_america,match_winner,2024_07_18
+CS:GO,perseverance_elevate_jul_18,jul_18,perseverance,3.55,elevate,1.24,,esl_challenger_league_north_america,match_winner,2024_07_18
+CS:GO,take_flyte_party_astronauts_jul_18,jul_18,take_flyte,5.71,party_astronauts,1.11,,esl_challenger_league_north_america,match_winner,2024_07_18
+CS:GO,lag_boss_jul_18,jul_18,lag,2.00,boss,1.70,,esl_challenger_league_north_america,match_winner,2024_07_18
+CS:GO,rembaza_gameinside_jul_18,jul_18,rembaza,1.70,gameinside,2.01,,esports_battle,match_winner,2024_07_18
+CS:GO,gameinside_rembaza_jul_18,jul_18,gameinside,2.01,rembaza,1.70,,esports_battle,match_winner,2024_07_18
+CS:GO,bad_news_kangaroos_arcade_jul_18,jul_18,bad_news_kangaroos,1.05,arcade,8.01,,esl_challenger_league_oceania,match_winner,2024_07_18
+CS:GO,mindfreak_mantra_jul_18,jul_18,mindfreak,1.22,mantra,3.75,,esl_challenger_league_oceania,match_winner,2024_07_18
+CS:GO,rooster_dxa_jul_18,jul_18,rooster,1.06,dxa,7.51,,esl_challenger_league_oceania,match_winner,2024_07_18
+CS:GO,passion_ua_copenhagen_wolves_jul_18,jul_18,passion_ua,1.36,copenhagen_wolves,2.85,,cct_european_series,match_winner,2024_07_18
+CS:GO,eyeballers_cybershoke_jul_18,jul_18,eyeballers,1.96,cybershoke,1.80,,res_regional_series_europe,match_winner,2024_07_18
+CS:GO,arcade_bad_news_kangaroos_jul_18,jul_18,arcade,7.57,bad_news_kangaroos,1.06,,esl_challenger_league_oceania,match_winner,2024_07_18
+CS:GO,dxa_rooster_jul_18,jul_18,dxa,7.47,rooster,1.06,,esl_challenger_league_oceania,match_winner,2024_07_18
+CS:GO,mantra_mindfreak_jul_18,jul_18,mantra,3.73,mindfreak,1.22,,esl_challenger_league_oceania,match_winner,2024_07_18
+CS:GO,purple_haze_seight_jul_18,jul_18,purple_haze,1.59,seight,2.19,,esports_battle,match_winner,2024_07_18
+CS:GO,seight_purple_haze_jul_18,jul_18,seight,2.19,purple_haze,1.59,,esports_battle,match_winner,2024_07_18
+CS:GO,solid_vikings_kr_jul_18,jul_18,solid,1.47,vikings_kr,2.44,,cct_south_america_series,match_winner,2024_07_18
+CS:GO,insanity_kru_jul_18,jul_18,insanity,1.37,kru,2.81,,thunderpick_world_championship_sa_qualifier,match_winner,2024_07_18
+CS:GO,zero_tenacity_fnatic_jul_18,jul_18,zero_tenacity,3.05,fnatic,1.36,,res_regional_series_europe,match_winner,2024_07_18
+Call of Duty,new_york_subliners_seattle_surge_jul_18,jul_18,new_york_subliners,1.27,seattle_surge,3.19,,cdl,match_winner,2024_07_18
+Call of Duty,clutch_rayn_x_war_noctem_x_cr_jul_18,jul_18,clutch_rayn_x_war,1.34,noctem_x_cr,2.84,,challengers_finals,match_winner,2024_07_18
+Call of Duty,sgp_midnight_singapore_syndicate_jul_18,jul_18,sgp_midnight,1.85,singapore_syndicate,1.83,,challengers_finals,match_winner,2024_07_18
+Call of Duty,five_media_clan_exceptional_jul_18,jul_18,five_media_clan,1.86,exceptional,1.83,,challengers_finals,match_winner,2024_07_18
+Call of Duty,atlanta_faze_miami_heretics_jul_18,jul_18,atlanta_faze,1.13,miami_heretics,4.72,,cdl,match_winner,2024_07_18
+Call of Duty,toronto_ultra_los_angeles_thieves_jul_18,jul_18,toronto_ultra,1.25,los_angeles_thieves,3.34,,cdl,match_winner,2024_07_18
+Call of Duty,optic_texas_los_angeles_guerrillas_jul_18,jul_18,optic_texas,1.23,los_angeles_guerrillas,3.50,,cdl,match_winner,2024_07_18
